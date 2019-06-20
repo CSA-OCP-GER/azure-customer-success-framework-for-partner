@@ -14,7 +14,7 @@ What does the framework include:
 
 ## the iterative approach
 
-In lot of frameworks you see the approach ...
+In lot of frameworks you see the approach of delivering the value in a step-by-step process. Having after every step a delivered value and start a new iteration to deliver the next value is one of main ideas of a agile project approach. Each iteration we have divided into four phases:
 
 ![iterative approach](9_pics/iterative.png)
 

@@ -19,7 +19,7 @@
 
 ## Result
 
-__The customer has seen exemplary see how something is implemented in Azure and can transfer it to their use case__
+>The customer has seen exemplary see how something is implemented in Azure and can transfer it to their use case
 
 ## Resources
 

@@ -20,6 +20,6 @@ Timeline is about 1-2 weeks from the first call to handing over the results
 
 ## Result
 
-__The customer knows what Azure is and has found a first use case__
+>The customer knows what Azure is and has found a first use case
 
 ## Resources

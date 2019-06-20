@@ -18,6 +18,6 @@
 
 ## Result
 
-__The customer has an assessment of their Azure environment and a catalogue of measures to improve__
+>The customer has an assessment of their Azure environment and a catalogue of measures to improve
 
 ## Resources

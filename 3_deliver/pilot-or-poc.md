@@ -15,7 +15,7 @@ Caring the piloting and documenting progress
 
 ## Result
 
-__The customer's use case has been technically piloted, and the customer is able to set up a business case__
+>The customer's use case has been technically piloted, and the customer is able to set up a business case
 
 ## Resources
 

@@ -61,3 +61,16 @@ depending on the level of the customer, there is variety of engagement to choose
 
 - Microsoft Cloud Workshop
 - Azure Optimization Workshop
+
+## commit - 
+
+## deliver - 
+
+## ensure
+
+## Links
+
+- [Success Framework PDF](0_framework/Azure–CustomerSuccessFrameworkforPartner.pdf) 
+- [Microsoft Cloud Workshops](http://microsoftcloudworkshop.com/)
+
+

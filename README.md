@@ -25,7 +25,11 @@ In lot of frameworks you see the approach ...
 |deliver|Deliver the workshop or engagement to the customer|
 |ensure|Ensure that the goal of the engagement are reached and next steps are defined|
 
-## the maturity model
+## assess - the maturity model
+
+Overview of the maturity level model:
+
+![maturity level model overview](/9_pics/maturity.png)
 
 In the __assess phase__ the maturity of the customer should be determent, to deliver the wright type of engagement to the customer. We defined four maturity levels:
 
@@ -57,5 +61,3 @@ depending on the level of the customer, there is variety of engagement to choose
 
 - Microsoft Cloud Workshop
 - Azure Optimization Workshop
-
-![maturity level model overview](/9_pics/maturity.png)

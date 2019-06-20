@@ -1,18 +1,19 @@
 # Cloud Readiness Assessment (DE)
 
-This assessment allows you to record and evaluate a customer's initial situation to be prepared for the introduction of cloud services. The Assessment is pre populated with a lot of question to determine the clud readiness, but can be extended by own questions.
+This assessment allows you to record and evaluate a customer's initial situation to be prepared for the introduction of cloud services. The Assessment is pre populated with a lot of question to determine the cloud readiness, but can be extended by own questions.
 
 At the moment the Excel file is only provided in German language.
 
 ## Guide
 
-The evaluation of cloud readiness is carried out by examining certain conditions and prerequisites which, if they apply to the company, have a positive impact on the implementation of cloud concepts or the introduction of cloud services. 
+The evaluation of cloud readiness is carried out by examining certain conditions and prerequisites which, if they apply to the company, have a positive impact on the implementation of cloud concepts or the introduction of cloud services.
 The conditions and prerequisites relevant to a cloud readiness were based on various international standards or requirements, e.g. ISO/IEC 27001 and 27018, the requirements catalogue Cloud Computing of the Federal Office for Information Security, As well as better practices and recommendations from leading analysts, such as Gartner Cloud Computing Key Initiative Overview, derived from the launch of cloud services.
 The conditions and prerequisites are thematically grouped into 6 design fields, each with 3 sub-areas.
 
 ### First Segment
 
 In the first segment, the different design fields with their sub-areas can be weighted for the respective customer situation (sheet/register "rating and weighting"). In addition, the results of the Cloud Readiness Assessment are shown via various views:
+
 - Register "Scoring Summary": Tabular analysis of the cloud readiness per sub-range and summary for the design fields.
 - Register "Dashboard": Graphic analysis via network diagrams per design field and a summary of all design fields in a network diagram.
 - register "CROM": Graphic analysis of the cloud readiness across all design fields in the form of a bar chart based on the software Asset Management Optimization Model from Microsoft.

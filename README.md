@@ -8,7 +8,7 @@ What does the framework include:
 - A structured approach
 - Complete workshop formats including material and procedure
 - Methods and tools from business consulting
-- Various templates and templates 
+- Various templates and templates
   (currently under construction)
 - Notes and experiences
 
@@ -57,9 +57,9 @@ Depending on the level of the customer, there is variety of engagement to choose
 - Deliver a Architecture Design Session (ADS)
 - [Start a pilot or PoC](3_deliver/pilot-or-poc.md)
 
-### cloud is in use 
+### cloud is in use
 
--  [Microsoft Cloud Workshops](3_deliver/microsoft-cloud-workshop.md)
+- [Microsoft Cloud Workshops](3_deliver/microsoft-cloud-workshop.md)
 - [Azure Optimization Workshop](3_deliver/azure-optimization-workshop.md)
 
 ## [commit](2_commit/commit.md)
@@ -70,17 +70,13 @@ for more ideas around the commitment we have collected some samples in the [comm
 
 ## deliver
 
-
-
 ## [ensure](4_ensure/ensure.md)
 
-At the end of the deliver phase it is important to reference back to the committed goals and proof the execution of the engagement against the agreed goals. Even if not all goals are achieved, at this point next steps can be defined and can be used to start the next iteration in this model and assess the maybe new maturity and commit the next goals to achieve. 
+At the end of the deliver phase it is important to reference back to the committed goals and proof the execution of the engagement against the agreed goals. Even if not all goals are achieved, at this point next steps can be defined and can be used to start the next iteration in this model and assess the maybe new maturity and commit the next goals to achieve.
 
-Some samples for documenting the proof of execution refer to the [ensure](4_ensure/ensure.md) folder. 
+Some samples for documenting the proof of execution refer to the [ensure](4_ensure/ensure.md) folder.
 
 ## Links
 
-- [Success Framework PDF](0_framework/Azure–CustomerSuccessFrameworkforPartner.pdf) 
+- [Success Framework PDF](0_framework/Azure–CustomerSuccessFrameworkforPartner.pdf)
 - [Microsoft Cloud Workshops](http://microsoftcloudworkshop.com/)
-
-

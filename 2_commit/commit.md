@@ -36,11 +36,11 @@ Referring back to the both examples given above - the __M__ and the __T__ are mi
 
 ## define the benefit
 
-In the description of the future state include a statement about the desired benefit of the engagement. 
+In the description of the future state include a statement about the desired benefit of the engagement.
 
 If you think about the examples above it could be a statement like:
 
-- We would like to reduce the operational effort for our IT stuff 
+- We would like to reduce the operational effort for our IT stuff
 
 or
 
@@ -54,4 +54,4 @@ In most cases the engagements have no great risks. to talk about the potential o
 
 ## Samples
 
-A collection of possible Slides to document the commitment you find in this [presentation](commit-samples.ppt).
+A collection of possible Slides to document the commitment you find in this [presentation](commit-samples.pptx).

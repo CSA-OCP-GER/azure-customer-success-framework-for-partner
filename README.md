@@ -40,33 +40,43 @@ In the __assess phase__ the maturity of the customer should be determent, to del
 |__Cloud is a solution__|The customer is aware of his use case in Azure and wants to prove the feasibility of the solution and, if necessary, to support it with a business case.|
 |__Cloud is in use__|Customer already operates an Azure environment but sees further potential in his business or wants to improve his operation.|
 
-depending on the level of the customer, there is variety of engagement to choose from in every level.
+Depending on the level of the customer, there is variety of engagement to choose from in every level.
 
 ### cloud affine
 
-- Azure Enablement Workshop
+- [Azure Enablement Workshop](3_deliver/azure-enablement-workshop.md)
 - EBC
 
 ### cloud is an option
 
-- Microsoft Cloud Workshops
+- [Microsoft Cloud Workshops](3_deliver/microsoft-cloud-workshop.md)
 - Azure Governance Workshop
 
 ### cloud is a solution
 
 - Deliver a Architecture Design Session (ADS)
-- Start a pilot or PoC
+- [Start a pilot or PoC](3_deliver/pilot-or-poc.md)
 
 ### cloud is in use 
 
-- Microsoft Cloud Workshop
-- Azure Optimization Workshop
+-  [Microsoft Cloud Workshops](3_deliver/microsoft-cloud-workshop.md)
+- [Azure Optimization Workshop](3_deliver/azure-optimization-workshop.md)
 
-## commit - 
+## [commit](2_commit/commit.md)
 
-## deliver - 
+In this phase it is important to generate a common sense about the goals of the engagement to deliver. Especially in cloud engagements it is important to create a statement of work before any steps in the engagement are made. Both sides in the engagement must be sure what to expect as outcome of the engagement.
 
-## ensure
+for more ideas around the commitment we have collected some samples in the [commit](2_commit/commit.md) folder.
+
+## deliver
+
+
+
+## [ensure](4_ensure/ensure.md)
+
+At the end of the deliver phase it is important to reference back to the committed goals and proof the execution of the engagement against the agreed goals. Even if not all goals are achieved, at this point next steps can be defined and can be used to start the next iteration in this model and assess the maybe new maturity and commit the next goals to achieve. 
+
+Some samples for documenting the proof of execution refer to the [ensure](4_ensure/ensure.md) folder. 
 
 ## Links
 

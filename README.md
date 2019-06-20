@@ -40,6 +40,8 @@ In the __assess phase__ the maturity of the customer should be determent, to del
 |__Cloud is a solution__|The customer is aware of his use case in Azure and wants to prove the feasibility of the solution and, if necessary, to support it with a business case.|
 |__Cloud is in use__|Customer already operates an Azure environment but sees further potential in his business or wants to improve his operation.|
 
+## deliver
+
 Depending on the level of the customer, there is variety of engagement to choose from in every level.
 
 ### cloud affine
@@ -67,8 +69,6 @@ Depending on the level of the customer, there is variety of engagement to choose
 In this phase it is important to generate a common sense about the goals of the engagement to deliver. Especially in cloud engagements it is important to create a statement of work before any steps in the engagement are made. Both sides in the engagement must be sure what to expect as outcome of the engagement.
 
 for more ideas around the commitment we have collected some samples in the [commit](2_commit/commit.md) folder.
-
-## deliver
 
 ## [ensure](4_ensure/ensure.md)
 
